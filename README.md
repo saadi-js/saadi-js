@@ -10,16 +10,16 @@ AI Assistant, Tracking Pakistan (2025)
 ## Technical Stack
 
 **AI & Machine Learning**  
-Python, LangChain, RAG, Google Gemini, OpenAI GPT-4o-mini, scikit-learn, ChromaDB, OpenCV
+Python, LangChain, RAG,scikit-learn,Tensorflow, ChromaDB, OpenCV
 
 **Backend & APIs**  
-Django, Django REST Framework, FastAPI, SQLAlchemy, Streamlit
+Django, Django REST Framework, FastAPI
 
 **Frontend & Mobile**  
-React, TypeScript, Flutter, HTML/CSS, JavaScript, Material-UI, Styled Components
+React,Flutter, HTML/CSS, JavaScript, Material-UI, Styled Components
 
 **Data & Infrastructure**  
-PostgreSQL, MongoDB, MySQL, SQLite, Redis, Apache Kafka, Docker, Docker Swarm
+PostgreSQL, MongoDB, MySQL, SQLite, Redis, Apache Kafka, Docker, Docker Compose
 
 ---
 
@@ -27,7 +27,7 @@ PostgreSQL, MongoDB, MySQL, SQLite, Redis, Apache Kafka, Docker, Docker Swarm
 
 ### Project Nexus — AI-Powered Campus Platform
 Final Year Design Project. A unified university management ecosystem built on polyglot microservices that eliminates data silos between Student Information Systems and Learning Management Systems. Implements a hybrid CAG + RAG chatbot via LangChain and Google Gemini, multi-factor biometric attendance with CV-based spoof detection, and predictive at-risk student analytics. Event-driven communication through Apache Kafka ensures zero data loss across services.  
-`React` `FastAPI` `LangChain` `Gemini` `PostgreSQL` `MongoDB` `Kafka` `Docker Swarm` `ChromaDB` `OpenCV`
+`React` `FastAPI` `LangChain` `Gemini` `PostgreSQL` `MongoDB` `Kafka` `Docker Compose` `ChromaDB` `OpenCV`
 
 ### EtapsAI — Intelligent E-Commerce Chatbot
 Production-oriented chatbot platform built during an internship at Tracking Pakistan. Classifies user intent across five categories (general, order tracking, product info, purchase, category browsing) and generates contextual responses backed by a dual-database architecture — MySQL for structured product and order data, MongoDB for persistent chat history. Integrates OpenAI GPT-4o-mini for natural language understanding.  
